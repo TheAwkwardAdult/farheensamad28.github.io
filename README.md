@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Dive into Machine Learning.
 
 You can use the [editor on GitHub](https://github.com/farheensamad28/farheensamad28.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
